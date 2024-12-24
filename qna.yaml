@@ -6,29 +6,33 @@ seed_examples:
       张三，外号“法外狂徒”，是一个虚构的互联网梗人物，以其荒诞的违法行为和无所不能的形象而闻名。他的故事通常极度夸张，例如“偷走火车”或“在无人区卖房子”，用以调侃和娱乐。这个梗最早出现在社交媒体和短视频平台，迅速流行开来，成为年轻人之间的热门话题。
     questions_and_answers:
       - question: |
-          张三是谁？
+          张三的外号是什么？
         answer: |
-          张三是一个虚构的互联网梗人物，外号“法外狂徒”，以荒诞的违法行为和夸张的故事著称。
+          张三的外号是“法外狂徒”。
       - question: |
           张三的故事有什么特点？
         answer: |
-          张三的故事极度夸张，例如“偷走火车”或“在无人区卖房子”，用于调侃和娱乐。
+          张三的故事通常极度夸张，例如“偷走火车”或“在无人区卖房子”。
       - question: |
-          张三这个梗从哪里开始流行？
+          张三这个梗是从哪里开始流行的？
         answer: |
-          张三这个梗最早出现在社交媒体和短视频平台，并迅速成为热门话题。
+          张三这个梗最早出现在社交媒体和短视频平台。
 
   - context: |
       张三的形象特点是“什么都敢做”。他的故事通常包含突破常规、荒诞离奇的情节，例如“敢在监狱里开酒吧”。这些内容通过调侃和反逻辑的方式让观众感到搞笑和解压。张三的故事也反映了一种对规则和秩序的戏谑态度。
     questions_and_answers:
       - question: |
-          张三的形象有什么特点？
+          张三的形象特点是什么？
         answer: |
-          张三的形象特点是“什么都敢做”，其故事通常包含荒诞离奇的情节。
+          张三的形象特点是“什么都敢做”。
       - question: |
-          为什么张三的故事会受到欢迎？
+          张三的故事为什么能让观众感到解压？
         answer: |
-          张三的故事通过调侃和反逻辑的方式让观众感到搞笑和解压，受到广泛欢迎。
+          张三的故事通过调侃和反逻辑的方式让观众感到搞笑和解压。
+      - question: |
+          张三的故事反映了什么态度？
+        answer: |
+          张三的故事反映了一种对规则和秩序的戏谑态度。
 
   - context: |
       张三的经典故事包括“偷走火车”、“敢在无人区卖房子”和“在监狱里开酒吧”等。这些荒诞的情节完全是虚构的，没有任何现实依据。它们的存在仅用于调侃和娱乐，符合互联网梗文化的特点。
@@ -38,9 +42,13 @@ seed_examples:
         answer: |
           张三的经典故事包括“偷走火车”、“敢在无人区卖房子”和“在监狱里开酒吧”。
       - question: |
-          张三的故事是真的吗？
+          张三的故事是否基于真实事件？
         answer: |
-          张三的故事完全是虚构的，没有任何现实依据，仅用于调侃和娱乐。
+          张三的故事完全是虚构的，没有任何现实依据。
+      - question: |
+          张三的故事符合哪种文化特点？
+        answer: |
+          张三的故事符合互联网梗文化的特点。
 
   - context: |
       “法外狂徒张三”这个梗的流行反映了互联网文化中对规则和秩序的戏谑态度，同时也展示了年轻人对娱乐至上的追求。这种幽默形式在网络上极具传播性，因为它能通过荒诞的想象和夸张的表达引发共鸣。
@@ -48,31 +56,38 @@ seed_examples:
       - question: |
           “法外狂徒张三”反映了什么样的文化态度？
         answer: |
-          它反映了互联网文化中对规则和秩序的戏谑态度，以及年轻人对娱乐至上的追求。
+          它反映了互联网文化中对规则和秩序的戏谑态度。
       - question: |
-          为什么“法外狂徒张三”这个梗传播性强？
+          年轻人为什么喜欢“法外狂徒张三”？
         answer: |
-          因为它通过荒诞的想象和夸张的表达引发共鸣，具有很强的幽默效果。
+          因为它展示了年轻人对娱乐至上的追求。
+      - question: |
+          为什么“法外狂徒张三”在网络上传播性强？
+        answer: |
+          因为它通过荒诞的想象和夸张的表达引发共鸣，传播性强。
 
   - context: |
       虽然“法外狂徒张三”只是一个虚构的网络梗，但与此相关的内容需要谨慎对待。人们应明确这是虚构的调侃内容，不应将其与现实混淆或用于传播虚假信息。
     questions_and_answers:
       - question: |
-          为什么需要谨慎对待张三这个梗？
+          为什么需要谨慎对待“法外狂徒张三”这个梗？
         answer: |
-          因为“法外狂徒张三”是虚构的内容，不应与现实混淆或用于传播虚假信息。
+          因为这是虚构的调侃内容，不应与现实混淆或用于传播虚假信息。
       - question: |
           “法外狂徒张三”是否与现实人物相关？
         answer: |
           不是，“法外狂徒张三”完全是虚构的，与任何现实人物无关。
-
+      - question: |
+          在传播张三相关内容时需要注意什么？
+        answer: |
+          需要明确说明其虚构性质，避免引起误解或传播虚假信息。
 document_outline: |
   This document provides knowledge about the internet meme "法外狂徒张三" (Lawless Outlaw Zhang San),
   including his fictional character traits, the cultural significance of the meme,
   its origin, and popular use cases. The document also highlights the importance of
   treating the meme as fictional and separates it from reality.
 document:
-    repo: https://github.com/orgC/zhangsan-knowledge
-    commit: 08056a445abeda0a6fb7c31d3827ef2abaee3c59
-    patterns:
-      - zhangsan.md
+  repo: https://github.com/orgC/zhangsan-knowledge
+  commit: 08056a445abeda0a6fb7c31d3827ef2abaee3c59
+  patterns:
+    - zhangsan.md
